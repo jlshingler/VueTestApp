@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\components\\Charts"
+  ],
+  "SelectedNode": "\\src\\components\\Charts\\LineChart.vue",
+  "PreviewInSolutionExplorer": false
+}
